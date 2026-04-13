@@ -1,11 +1,11 @@
 export const advisors = [
   {
-    slug: 'alexander',
-    name: 'Alexander',
+    slug: 'Proton',
+    name: 'Proton',
     category: 'Multi-logic execution system',
     shortDescription: 'A structured Expert Advisor focused on disciplined execution and portfolio consistency.',
     overview:
-      'Alexander is designed for traders who value methodical automation, clear rule sets, and operational stability. It is presented as a robust core system for users seeking an institutional-style approach to algorithmic execution.',
+      'Proton is a precision-driven trading system engineered to identify and act only on high-quality market signals. Through advanced data analysis and intelligent filtering, it isolates the most favorable conditions, executing trades with calculated accuracy and consistency. Rather than chasing market noise, Proton maintains a disciplined approach, focusing on clarity, efficiency, and long-term stability across varying market environments.',
     features: [
       'Structured trade management logic',
       'Consistency-focused execution framework',
