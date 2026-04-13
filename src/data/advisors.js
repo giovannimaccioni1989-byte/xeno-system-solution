@@ -2,6 +2,7 @@ export const advisors = [
   {
     slug: 'Proton',
     name: 'Proton',
+    image: '/Proton(alexander).png',
     category: 'Multi-logic execution system',
     shortDescription: 'A structured Expert Advisor focused on disciplined execution and portfolio consistency.',
     overview:
