@@ -25,12 +25,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'cerberus',
-    name: 'Cerberus',
+    slug: 'Defensor',
+    name: 'Defensor',
     category: 'Adaptive risk engine',
     shortDescription: 'A defensive trading system built to navigate variable market environments with measured exposure.',
     overview:
-      'Cerberus is positioned as a protection-oriented automated system with a focus on resilience and structure. It is intended for traders who prefer control, robust monitoring, and balanced algorithmic behavior.',
+      'DefensorFx is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, DefensorFx focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
     features: [
       'Defensive execution profile',
       'Balanced exposure logic',
@@ -50,12 +50,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'asgard',
-    name: 'Asgard',
+    slug: 'Cerberus',
+    name: 'Cerberus',
     category: 'Trend and structure model',
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
-      'Asgard is built around the idea of combining strategic market participation with clean system structure. It is suitable for traders who want an authoritative, premium-feeling algorithm inside a broader automated portfolio.',
+      'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
     features: [
       'Clean system architecture',
       'Trend-aware execution profile',
@@ -75,12 +75,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'shinra',
-    name: 'Shinra',
+    slug: 'Gold Shooter',
+    name: 'Gold Shooter',
     category: 'Precision execution module',
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
-      'Shinra is presented as a selective Expert Advisor focused on refined execution quality and operational clarity. It aims to deliver a modern, technology-driven trading impression aligned with a corporate brand identity.',
+      'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
     features: [
       'Selective entry profile',
       'Efficient operational structure',
@@ -100,12 +100,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'gold-shooter',
-    name: 'Gold Shooter',
+    slug: 'DragonMind',
+    name: 'DragonMind',
     category: 'Gold-focused tactical system',
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
-      'Gold Shooter is the specialized component of the Xeno System Solution lineup, crafted for users interested in automated execution on gold. It is positioned as a sharper, more tactical product inside the brand portfolio.',
+      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well-rounded performance profile, positioned between stability and active market participation.',
     features: [
       'Gold-oriented positioning',
       'Specialized market focus',
@@ -125,12 +125,13 @@ export const advisors = [
     },
   },
   {
-    slug: 'defender',
-    name: 'Defender',
+    slug: 'Asgard',
+    name: 'Asgard',
     category: 'Capital protection profile',
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
-      'Defender reflects a lower-aggression philosophy with stronger emphasis on stability, risk awareness, and sustainable automation. It fits especially well in communications aimed at disciplined users and cautious buyers.',
+      'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.
+',
     features: [
       'Conservative execution stance',
       'Capital-protection oriented messaging',
@@ -150,12 +151,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'dragonmind',
-    name: 'Dragonmind',
+    slug: 'PulseFire',
+    name: 'PulseFire',
     category: 'Momentum execution suite',
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
-      'Dragonmind is framed as one of the boldest solutions in the Xeno System Solution ecosystem. It combines a stronger product identity with a serious presentation suitable for performance-oriented pages and sales messaging.',
+      'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
     features: [
       'Dynamic product positioning',
       'Suitable for performance-led marketing',
@@ -175,12 +176,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'spirofly',
-    name: 'Spirofly',
+    slug: 'HyperStorm',
+    name: 'HyperStorm',
     category: 'Agile multi-market system',
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
-      'Spirofly is positioned as an agile and modern automated trading solution. It helps round out the product range by offering a more fluid and adaptive identity while keeping the overall site presentation professional.',
+      'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
     features: [
       'Agile execution profile',
       'Modern and flexible product identity',
