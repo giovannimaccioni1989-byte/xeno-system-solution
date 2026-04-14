@@ -76,12 +76,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'shinra',
-    name: 'Shinra',
+    slug: 'Pulsefire',
+    name: 'Pulsefire',
     category: 'Precision execution module',
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
-      'Shinra is presented as a selective Expert Advisor focused on refined execution quality and operational clarity. It aims to deliver a modern, technology-driven trading impression aligned with a corporate brand identity.',
+      'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
     features: [
       'Selective entry profile',
       'Efficient operational structure',
