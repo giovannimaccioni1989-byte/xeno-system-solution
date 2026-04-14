@@ -26,12 +26,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'cerberus',
+    slug: 'Cerberus',
     name: 'Cerberus',
     category: 'Adaptive risk engine',
     shortDescription: 'A defensive trading system built to navigate variable market environments with measured exposure.',
     overview:
-      'Cerberus is positioned as a protection-oriented automated system with a focus on resilience and structure. It is intended for traders who prefer control, robust monitoring, and balanced algorithmic behavior.',
+      'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
     features: [
       'Defensive execution profile',
       'Balanced exposure logic',
