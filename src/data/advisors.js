@@ -151,12 +151,13 @@ export const advisors = [
     },
   },
   {
-    slug: 'dragonmind',
+    slug: 'Dragonmind',
     name: 'Dragonmind',
     category: 'Momentum execution suite',
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
-      'Dragonmind is framed as one of the boldest solutions in the Xeno System Solution ecosystem. It combines a stronger product identity with a serious presentation suitable for performance-oriented pages and sales messaging.',
+      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well-rounded performance profile, positioned between stability and active market participation.
+',
     features: [
       'Dynamic product positioning',
       'Suitable for performance-led marketing',
