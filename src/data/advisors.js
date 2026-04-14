@@ -2,6 +2,7 @@ export const advisors = [
   {
     slug: 'Proton',
     name: 'Proton',
+    category: 'DA INSERIRE',
     image: "/Proton (alexander).jpg",
     shortDescription: 'A structured Expert Advisor focused on disciplined execution and portfolio consistency.',
     overview:
@@ -27,7 +28,7 @@ export const advisors = [
   {
     slug: 'Cerberus',
     name: 'Cerberus',
-    category: 'Adaptive risk engine',
+    category: 'DA INSERIRE',
     shortDescription: 'A defensive trading system built to navigate variable market environments with measured exposure.',
     overview:
       'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
@@ -52,7 +53,7 @@ export const advisors = [
   {
     slug: 'Asgard',
     name: 'Asgard',
-    category: 'Trend and structure model',
+    category: 'DA INSERIRE',
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
       'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
@@ -77,7 +78,7 @@ export const advisors = [
   {
     slug: 'Pulsefire',
     name: 'Pulsefire',
-    category: 'Precision execution module',
+    category: 'DA INSERIRE',
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
       'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
@@ -102,7 +103,7 @@ export const advisors = [
   {
     slug: 'Gold Shooter',
     name: 'Gold Shooter',
-    category: 'Gold-focused tactical system',
+    category: 'DA INSERIRE',
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
       'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
@@ -127,7 +128,7 @@ export const advisors = [
   {
     slug: 'Defensor',
     name: 'Defensor',
-    category: 'Capital protection profile',
+    category: 'DA INSERIRE',
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
       'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
@@ -152,7 +153,7 @@ export const advisors = [
   {
     slug: 'Dragonmind',
     name: 'Dragonmind',
-    category: 'Momentum execution suite',
+    category: 'DA INSERIRE',
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well rounded performance profile, positioned between stability and active market participation. ',
@@ -177,7 +178,7 @@ export const advisors = [
   {
     slug: 'Hyperstorm',
     name: 'Hyperstorm',
-    category: 'Agile multi-market system',
+    category: 'DA INSERIRE',
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
