@@ -51,12 +51,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'asgard',
+    slug: 'Asgard',
     name: 'Asgard',
     category: 'Trend and structure model',
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
-      'Asgard is built around the idea of combining strategic market participation with clean system structure. It is suitable for traders who want an authoritative, premium-feeling algorithm inside a broader automated portfolio.',
+      'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
     features: [
       'Clean system architecture',
       'Trend-aware execution profile',
@@ -131,7 +131,7 @@ export const advisors = [
     category: 'Capital protection profile',
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
-      'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, DefensorFx focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
+      'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
     features: [
       'Conservative execution stance',
       'Capital-protection oriented messaging',
