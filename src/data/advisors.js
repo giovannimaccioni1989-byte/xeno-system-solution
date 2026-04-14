@@ -101,12 +101,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'gold-shooter',
+    slug: 'Gold Shooter',
     name: 'Gold Shooter',
     category: 'Gold-focused tactical system',
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
-      'Gold Shooter is the specialized component of the Xeno System Solution lineup, crafted for users interested in automated execution on gold. It is positioned as a sharper, more tactical product inside the brand portfolio.',
+      'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
     features: [
       'Gold-oriented positioning',
       'Specialized market focus',
