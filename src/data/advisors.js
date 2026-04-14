@@ -176,12 +176,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'spirofly',
-    name: 'Spirofly',
+    slug: 'Hyperstorm',
+    name: 'Hyperstorm',
     category: 'Agile multi-market system',
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
-      'Spirofly is positioned as an agile and modern automated trading solution. It helps round out the product range by offering a more fluid and adaptive identity while keeping the overall site presentation professional.',
+      'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
     features: [
       'Agile execution profile',
       'Modern and flexible product identity',
