@@ -126,12 +126,12 @@ export const advisors = [
     },
   },
   {
-    slug: 'defender',
-    name: 'Defender',
+    slug: 'Defensor',
+    name: 'Defensor',
     category: 'Capital protection profile',
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
-      'Defender reflects a lower-aggression philosophy with stronger emphasis on stability, risk awareness, and sustainable automation. It fits especially well in communications aimed at disciplined users and cautious buyers.',
+      'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, DefensorFx focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
     features: [
       'Conservative execution stance',
       'Capital-protection oriented messaging',
