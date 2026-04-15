@@ -107,6 +107,7 @@ export const advisors = [
     slug: 'Gold Shooter',
     name: 'Gold Shooter',
     category: 'DA INSERIRE',
+    image: "/Gold Shooter.png",
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
       'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
