@@ -2,7 +2,7 @@ export const advisors = [
   {
     slug: 'Proton',
     name: 'Proton',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/Proton (alexander).png",
     shortDescription: 'A structured Expert Advisor focused on disciplined execution and portfolio consistency.',
     overview:
@@ -28,7 +28,7 @@ export const advisors = [
   {
     slug: 'Cerberus',
     name: 'Cerberus',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/Cerberus.png",
     shortDescription: 'A defensive trading system built to navigate variable market environments with measured exposure.',
     overview:
@@ -54,7 +54,7 @@ export const advisors = [
   {
     slug: 'Asgard',
     name: 'Asgard',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/Asgard, città d'oro e luce.png",
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
@@ -80,7 +80,7 @@ export const advisors = [
   {
     slug: 'Pulsefire',
     name: 'Pulsefire',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/PulseFire (Shinra).png",
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
@@ -106,7 +106,7 @@ export const advisors = [
   {
     slug: 'Gold Shooter',
     name: 'Gold Shooter',
-    category: 'DA INSERIRE',
+    category: 'Forex - Gold',
     image: "/Gold Shooter.png",
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
@@ -132,7 +132,7 @@ export const advisors = [
   {
     slug: 'Defensor',
     name: 'Defensor',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/Defensor FX.png",
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
@@ -158,7 +158,7 @@ export const advisors = [
   {
     slug: 'Dragonmind',
     name: 'Dragonmind',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/DragonMind.png",
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
@@ -184,7 +184,7 @@ export const advisors = [
   {
     slug: 'Hyperstorm',
     name: 'Hyperstorm',
-    category: 'DA INSERIRE',
+    category: 'Forex - Multi Pairs',
     image: "/HyperStorm (spyroFly).png",
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
