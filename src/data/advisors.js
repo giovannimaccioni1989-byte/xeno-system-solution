@@ -55,7 +55,7 @@ export const advisors = [
     slug: 'Asgard',
     name: 'Asgard',
     category: 'DA INSERIRE',
-    image: "/Asgard.png",
+    image: "/Asgard, città d'oro e luce.png",
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
       'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
