@@ -133,6 +133,7 @@ export const advisors = [
     slug: 'Defensor',
     name: 'Defensor',
     category: 'DA INSERIRE',
+    image: "/Defensor FX.png",
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
       'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
@@ -158,6 +159,7 @@ export const advisors = [
     slug: 'Dragonmind',
     name: 'Dragonmind',
     category: 'DA INSERIRE',
+    image: "/DragonMind.png",
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well rounded performance profile, positioned between stability and active market participation. ',
@@ -183,6 +185,7 @@ export const advisors = [
     slug: 'Hyperstorm',
     name: 'Hyperstorm',
     category: 'DA INSERIRE',
+    image: "/HyperStorm (spyroFly).png",
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
