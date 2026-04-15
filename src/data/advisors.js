@@ -81,6 +81,7 @@ export const advisors = [
     slug: 'Pulsefire',
     name: 'Pulsefire',
     category: 'DA INSERIRE',
+    image: "/PulseFire (Shinra).png",
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
       'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
