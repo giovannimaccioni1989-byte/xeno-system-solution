@@ -535,4 +535,6 @@ a {
   object-fit: cover;
   display: block;
 }
+.advisor-visual::after {
+  display: none;
 }
