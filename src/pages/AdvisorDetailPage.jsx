@@ -28,7 +28,7 @@ export default function AdvisorDetailPage() {
         </div>
 
         <div className="advisor-detail-visual">
-          <img src={advisor.image} alt={advisor.name} />
+          <img src={advisor.detailImage} alt={advisor.name} />
         </div>
       </div>
 
