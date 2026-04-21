@@ -192,7 +192,8 @@ export const advisors = [
     slug: 'Hyperstorm',
     name: 'Hyperstorm',
     category: 'Forex - Multi Pairs',
-    image: "/HyperStorm (spyroFly).png",
+    cardImage: "/HyperStorm (spyroFly).png",
+    detailImage: '/analisi.png',
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
