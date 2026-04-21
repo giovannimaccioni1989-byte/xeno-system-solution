@@ -538,3 +538,11 @@ a {
 .advisor-visual::after {
   display: none;
 }
+.advisor-visual {
+  background: none !important;
+}
+
+.advisor-visual::after {
+  content: none !important;
+  display: none !important;
+}
