@@ -15,7 +15,7 @@ export default function AdvisorsPage() {
         {advisors.map((advisor) => (
           <Link className="advisor-card" key={advisor.slug} to={`/expert-advisors/${advisor.slug}`}>
             <div className="advisor-visual">
-              <img src={advisor.image} alt={advisor.name} />
+              <img src={advisor.cardImage} alt={advisor.name} />
             </div>
             <span className="tag">{advisor.category}</span>
             <h3>{advisor.name}</h3>
