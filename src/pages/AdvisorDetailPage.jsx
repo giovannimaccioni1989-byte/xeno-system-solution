@@ -27,10 +27,30 @@ export default function AdvisorDetailPage() {
           <span className="tag big">{advisor.category}</span>
         </div>
 
-        <div className="advisor-detail-visual">
-          <img src={advisor.detailImage} alt={advisor.name} />
-        </div>
-      </div>
+        <div className="advisor-detail-visual"
+          style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            width: '100%',
+            background: 'none',
+            padding: '10px',
+            overflow: 'visible',
+                }}
+        >
+         <img src={advisor.detailImage}
+          alt={advisor.name}
+          style={{
+            display: 'block',
+            width: 'auto',
+            maxWidth: '100%',
+            height: 'auto',
+            maxHeight: '500px',
+            objectFit: 'contain',
+            margin: '0 auto',
+                }}
+        />
+    </div>
 
       <div className="detail-grid">
         <article className="detail-card">
