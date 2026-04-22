@@ -520,19 +520,24 @@ a {
   }
   
 .advisor-detail-visual {
-  display: table;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
   max-width: 100%;
   margin: 0 auto;
+  padding: 10px;
   border-radius: 24px;
   background: none !important;
-  padding: 10px;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .advisor-detail-visual img {
   display: block;
+  width: auto !important;
   max-width: 100%;
-  height: auto;
+  height: auto !important;
+  object-fit: contain;
 }
 .advisor-visual::after {
   display: none;
