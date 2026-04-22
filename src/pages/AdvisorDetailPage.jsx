@@ -26,10 +26,12 @@ export default function AdvisorDetailPage() {
           <p className="lead">{advisor.overview}</p>
           <span className="tag big">{advisor.category}</span>
         </div>
-    <div className="advisor-detail-visual">
-      <img src={advisor.detailImage} alt={advisor.name} />
-    </div>
-    
+
+        <div className="advisor-detail-visual">
+          <img src={advisor.detailImage} alt={advisor.name} />
+        </div>
+      </div>
+
       <div className="detail-grid">
         <article className="detail-card">
           <h2>Key Features</h2>
