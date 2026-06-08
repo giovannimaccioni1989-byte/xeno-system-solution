@@ -2,9 +2,10 @@ import SectionTitle from '../components/SectionTitle'
 
 const contacts = [
   {
-    title: 'WhatsApp',
-    value: '+00 000 000 0000',
-    note: 'Replace with your official business number.',
+    title: 'Facebook',
+    value: 'Facebook',
+    link: 'https://www.facebook.com/profile.php?id=61589586211885&locale=it_IT',
+    note: 'Follow our official Facebook profile!',
   },
   {
     title: 'Instagram',
