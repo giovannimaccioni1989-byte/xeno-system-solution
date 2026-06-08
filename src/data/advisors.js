@@ -35,15 +35,14 @@ export const advisors = [
     overview:
       'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
     features: [
-      'Defensive execution profile',
-      'Balanced exposure logic',
-      'Built for changing market conditions',
-      'Useful for users prioritizing capital preservation',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Adaptive reaction to market conditions',
-      'Measured position handling',
-      'Focus on avoiding impulsive overexposure',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '44.26%',
@@ -62,15 +61,14 @@ export const advisors = [
     overview:
       'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
     features: [
-      'Clean system architecture',
-      'Trend-aware execution profile',
-      'Suitable for medium- to long-term deployment',
-      'Premium portfolio positioning',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Structured directional participation',
-      'Emphasis on market organization and confirmation',
-      'Designed to fit a serious corporate trading offering',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '37.13%',
@@ -89,15 +87,14 @@ export const advisors = [
     overview:
       'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
     features: [
-      'Selective entry profile',
-      'Efficient operational structure',
-      'Modern system positioning',
-      'Designed for serious performance communication',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Entry filtering and disciplined participation',
-      'Systematic trade management',
-      'Technology-oriented trading workflow',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '49.55%',
@@ -116,15 +113,14 @@ export const advisors = [
     overview:
       'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
     features: [
-      'Gold-oriented positioning',
-      'Specialized market focus',
-      'Designed for tactical deployment',
-      'Distinct product identity within the catalog',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Specialized handling of gold market conditions',
-      'Attention to market volatility and execution timing',
-      'Focused system identity for commodity-minded traders',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '15.6%',
@@ -143,15 +139,14 @@ export const advisors = [
     overview:
       'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
     features: [
-      'Conservative execution stance',
-      'Capital-protection oriented messaging',
-      'Strong fit for lower-risk positioning',
-      'Clear and credible product profile',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Measured participation in qualified conditions',
-      'Risk-aware system behavior',
-      'Stability prioritized over unnecessary frequency',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '18.12%',
@@ -170,15 +165,14 @@ export const advisors = [
     overview:
      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well rounded performance profile, positioned between stability and active market participation. ',
     features: [
-      'Dynamic product positioning',
-      'Suitable for performance-led marketing',
-      'Distinctive brand identity',
-      'Portfolio diversification role',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Momentum-sensitive execution framing',
-      'Structured management under defined rules',
-      'Built for users who want a more assertive profile',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '42.10%',
@@ -197,15 +191,14 @@ export const advisors = [
     overview:
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
     features: [
-      'Agile execution profile',
-      'Modern and flexible product identity',
-      'Useful addition to a diversified catalog',
-      'Strong visual branding potential',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Flexible participation across structured conditions',
-      'Operational agility with disciplined system rules',
-      'Modern presentation for technology-focused buyers',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '53.68%',
