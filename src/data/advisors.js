@@ -20,10 +20,10 @@ export const advisors = [
       'Operational logic aimed at disciplined execution conditions',
     ],
     performance: {
-      returnRate: '12.4%',
-      maxDrawdown: '5.8%',
-      winRate: '67%',
-      profitFactor: '1.71',
+      returnRate: '17.81%',
+      maxDrawdown: '5.61%',
+      winRate: '94.98%',
+      profitFactor: '2.43',
     },
   },
   {
@@ -47,10 +47,10 @@ export const advisors = [
       'Focus on avoiding impulsive overexposure',
     ],
     performance: {
-      returnRate: '10.9%',
-      maxDrawdown: '4.9%',
-      winRate: '64%',
-      profitFactor: '1.63',
+      returnRate: '44.26%',
+      maxDrawdown: '7.99%',
+      winRate: '90.84%',
+      profitFactor: '2.07',
     },
   },
   {
@@ -74,10 +74,10 @@ export const advisors = [
       'Designed to fit a serious corporate trading offering',
     ],
     performance: {
-      returnRate: '14.1%',
-      maxDrawdown: '6.2%',
-      winRate: '62%',
-      profitFactor: '1.79',
+      returnRate: '37.13%',
+      maxDrawdown: '6.63%',
+      winRate: '87.39%',
+      profitFactor: '1.81',
     },
   },
   {
@@ -101,10 +101,10 @@ export const advisors = [
       'Technology-oriented trading workflow',
     ],
     performance: {
-      returnRate: '11.7%',
-      maxDrawdown: '5.1%',
-      winRate: '66%',
-      profitFactor: '1.68',
+      returnRate: '49.55%',
+      maxDrawdown: '12.00%',
+      winRate: '86.47%',
+      profitFactor: '2.02',
     },
   },
   {
@@ -155,10 +155,10 @@ export const advisors = [
       'Stability prioritized over unnecessary frequency',
     ],
     performance: {
-      returnRate: '9.8%',
-      maxDrawdown: '3.9%',
-      winRate: '69%',
-      profitFactor: '1.58',
+      returnRate: '18.12%',
+      maxDrawdown: '8.66%',
+      winRate: '95.48%',
+      profitFactor: '2.52',
     },
   },
   {
@@ -182,10 +182,10 @@ export const advisors = [
       'Built for users who want a more assertive profile',
     ],
     performance: {
-      returnRate: '16.2%',
-      maxDrawdown: '8.1%',
-      winRate: '57%',
-      profitFactor: '1.88',
+      returnRate: '42.10%',
+      maxDrawdown: '9.11%',
+      winRate: '93.31%',
+      profitFactor: '2.25',
     },
   },
   {
@@ -209,10 +209,10 @@ export const advisors = [
       'Modern presentation for technology-focused buyers',
     ],
     performance: {
-      returnRate: '13.2%',
-      maxDrawdown: '5.7%',
-      winRate: '63%',
-      profitFactor: '1.73',
+      returnRate: '53.68%',
+      maxDrawdown: '10.73%',
+      winRate: '80.66%',
+      profitFactor: '1.70',
     },
   },
 ]
