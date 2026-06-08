@@ -14,7 +14,7 @@ export const advisors = [
       'Timeframe: H4',
     ],
     strategy: [
-      'Risk Level: Low ',
+      'Risk Level: Very Low ',
       'Trading Style: Trend Following',
       'Recommended Capital: 5k $',
     ],
@@ -36,8 +36,8 @@ export const advisors = [
       'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
     features: [
       'Market: Forex',
-      'Pairs: 23',
-      'Timeframe: H4',
+      'Pairs: 25',
+      'Timeframe: H1',
     ],
     strategy: [
       'Risk Level: Low ',
@@ -62,13 +62,13 @@ export const advisors = [
       'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
     features: [
       'Market: Forex',
-      'Pairs: 23',
-      'Timeframe: H4',
+      'Pairs: 22',
+      'Timeframe: M15',
     ],
     strategy: [
-      'Risk Level: Low ',
+      'Risk Level: Moderate ',
       'Trading Style: Trend Following',
-      'Recommended Capital: 5k $',
+      'Recommended Capital: 10k $',
     ],
     performance: {
       returnRate: '37.13%',
@@ -88,13 +88,13 @@ export const advisors = [
       'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
     features: [
       'Market: Forex',
-      'Pairs: 23',
-      'Timeframe: H4',
+      'Pairs: 22',
+      'Timeframe: M15',
     ],
     strategy: [
-      'Risk Level: Low ',
+      'Risk Level: Moderate ',
       'Trading Style: Trend Following',
-      'Recommended Capital: 5k $',
+      'Recommended Capital: 10k $',
     ],
     performance: {
       returnRate: '49.55%',
@@ -113,14 +113,14 @@ export const advisors = [
     overview:
       'Gold Shooter is a precision-focused trading system engineered to execute only under highly refined market conditions. Acting with sniper-like accuracy, it targets select opportunities with exceptional timing and discipline, supported by advanced filtering mechanisms including news-based analysis. Designed to remain resilient even during high-impact market events, Gold Shooter avoids unnecessary exposure and focuses on quality over quantity, delivering a robust and highly controlled trading performance.',
     features: [
-      'Market: Forex',
-      'Pairs: 23',
-      'Timeframe: H4',
+      'Market: GOLD',
+      'Pairs: 1',
+      'Timeframe: H1',
     ],
     strategy: [
       'Risk Level: Low ',
       'Trading Style: Trend Following',
-      'Recommended Capital: 5k $',
+      'Recommended Capital: 10k $',
     ],
     performance: {
       returnRate: '15.6%',
@@ -140,11 +140,11 @@ export const advisors = [
       'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
     features: [
       'Market: Forex',
-      'Pairs: 23',
+      'Pairs: 24',
       'Timeframe: H4',
     ],
     strategy: [
-      'Risk Level: Low ',
+      'Risk Level: Very Low ',
       'Trading Style: Trend Following',
       'Recommended Capital: 5k $',
     ],
@@ -167,7 +167,7 @@ export const advisors = [
     features: [
       'Market: Forex',
       'Pairs: 23',
-      'Timeframe: H4',
+      'Timeframe: H1',
     ],
     strategy: [
       'Risk Level: Low ',
@@ -192,13 +192,13 @@ export const advisors = [
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
     features: [
       'Market: Forex',
-      'Pairs: 23',
-      'Timeframe: H4',
+      'Pairs: 21',
+      'Timeframe: M5',
     ],
     strategy: [
-      'Risk Level: Low ',
+      'Risk Level: High ',
       'Trading Style: Trend Following',
-      'Recommended Capital: 5k $',
+      'Recommended Capital: 10k $',
     ],
     performance: {
       returnRate: '53.68%',
