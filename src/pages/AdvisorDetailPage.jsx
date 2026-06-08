@@ -55,11 +55,8 @@ export default function AdvisorDetailPage() {
       <section className="performance-section">
         <div className="section-title left">
           <span className="eyebrow">PERFORMANCE SECTION</span>
-          <h2>Illustrative metrics presentation</h2>
-          <p>
-            These values are placeholder examples to show the visual structure of the website. Replace them with your
-            real backtest or live account statistics before publishing.
-          </p>
+          <h2>Strategy Statistics</h2>
+          
         </div>
 
         <div className="performance-grid">
