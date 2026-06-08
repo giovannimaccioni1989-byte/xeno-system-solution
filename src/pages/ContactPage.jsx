@@ -8,12 +8,12 @@ const contacts = [
   },
   {
     title: 'Instagram',
-    value: '@xenosystemsolution',
+    value: 'https://www.instagram.com/xenosystemsolution?igsh=MWFsdTMwYTM2eDB2Nw%3D%3D&utm_source=qr',
     note: 'Replace with your public brand profile.',
   },
   {
     title: 'Telegram',
-    value: '@xenosystemsolution',
+    value: 'https://t.me/+akW2xvJttoM2Y2I0',
     note: 'Replace with your contact username or channel.',
   },
 ]
