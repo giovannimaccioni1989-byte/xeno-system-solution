@@ -61,7 +61,7 @@ export default function AdvisorDetailPage() {
 
         <div className="performance-grid">
           <div className="performance-card">
-            <span>Return</span>
+            <span>Annual Return</span>
             <strong>{advisor.performance.returnRate}</strong>
           </div>
           <div className="performance-card">
