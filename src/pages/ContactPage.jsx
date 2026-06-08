@@ -8,13 +8,15 @@ const contacts = [
   },
   {
     title: 'Instagram',
-    value: 'https://www.instagram.com/xenosystemsolution?igsh=MWFsdTMwYTM2eDB2Nw%3D%3D&utm_source=qr',
-    note: 'Replace with your public brand profile.',
+    value: 'Instagram',
+    link: 'https://www.instagram.com/xenosystemsolution?igsh=MWFsdTMwYTM2eDB2Nw%3D%3D&utm_source=qr',
+    note: 'Follow our official Instagram profile!',
   },
   {
     title: 'Telegram',
-    value: 'https://t.me/+akW2xvJttoM2Y2I0',
-    note: 'Replace with your contact username or channel.',
+    value: 'Telegram',
+    link: 'https://t.me/+akW2xvJttoM2Y2I0',
+    note: 'Join our official Telegram channel!',
   },
 ]
 
@@ -31,7 +33,14 @@ export default function ContactPage() {
         {contacts.map((contact) => (
           <article className="info-card contact-card" key={contact.title}>
             <h3>{contact.title}</h3>
-            <p className="contact-value">{contact.value}</p>
+            <a
+              className="contact-value"
+              href={contact.link}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {contact.value}
+            </a>
             <p>{contact.note}</p>
           </article>
         ))}
