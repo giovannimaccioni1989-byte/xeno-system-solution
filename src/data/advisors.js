@@ -9,15 +9,14 @@ export const advisors = [
     overview:
       'Proton is a precision-driven trading system engineered to identify and act only on high-quality market signals. Through advanced data analysis and intelligent filtering, it isolates the most favorable conditions, executing trades with calculated accuracy and consistency. Rather than chasing market noise, Proton maintains a disciplined approach, focusing on clarity, efficiency, and long-term stability across varying market environments.',
     features: [
-      'Structured trade management logic',
-      'Consistency-focused execution framework',
-      'Suitable for diversified EA portfolios',
-      'Designed for controlled and repeatable workflows',
+      'Market: Forex',
+      'Pairs: 23',
+      'Timeframe: H4',
     ],
     strategy: [
-      'Rule-based market participation',
-      'Emphasis on repeatability over emotional discretion',
-      'Operational logic aimed at disciplined execution conditions',
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 5k $',
     ],
     performance: {
       returnRate: '17.81%',
