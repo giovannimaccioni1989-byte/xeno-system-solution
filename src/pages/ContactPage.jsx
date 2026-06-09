@@ -26,7 +26,7 @@ export default function ContactPage() {
     <section className="content-section">
       <SectionTitle
         eyebrow="CONTACTS"
-        title="Get in Touch with Xeno System Solution"
+        title="Official Contact Channels"
         text="Connect with us through our official channels for Expert Advisor information, performance updates, and support requests."
       />
 
