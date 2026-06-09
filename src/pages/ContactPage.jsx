@@ -3,7 +3,7 @@ import SectionTitle from '../components/SectionTitle'
 const contacts = [
   {
     title: 'Facebook',
-    value: 'Facebook',
+    value: '/icons/FacebookXenoLogo.png',
     link: 'https://www.facebook.com/profile.php?id=61589586211885&locale=it_IT',
     note: 'Follow our official Facebook profile!',
   },
