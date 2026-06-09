@@ -560,3 +560,9 @@ a {
   content: none !important;
   display: none !important;
 }
+.equity-chart-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+}
