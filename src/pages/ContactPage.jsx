@@ -9,13 +9,13 @@ const contacts = [
   },
   {
     title: 'Instagram',
-    value: 'Instagram',
+    value: '/icons/InstagramXenoLogo.png',
     link: 'https://www.instagram.com/xenosystemsolution?igsh=MWFsdTMwYTM2eDB2Nw%3D%3D&utm_source=qr',
     note: 'Follow our official Instagram profile!',
   },
   {
     title: 'Telegram',
-    value: 'Telegram',
+    value: '/icons/TelegramXenoLogo.png',
     link: 'https://t.me/+akW2xvJttoM2Y2I0',
     note: 'Join our official Telegram channel!',
   },
@@ -40,7 +40,11 @@ export default function ContactPage() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              {contact.value}
+              <img
+                src={contact.value}
+                alt={contact.title}
+                style={{ width: '64px', height: '64px' }}
+              />
             </a>
             <p>{contact.note}</p>
           </article>
