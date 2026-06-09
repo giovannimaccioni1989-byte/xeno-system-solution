@@ -96,7 +96,7 @@ export default function AdvisorDetailPage() {
         </p>
 
         <a
-          href="https://www.myfxbook.com/"
+          href={advisor.myfxbookLink}
           target="_blank"
           rel="noopener noreferrer"
           className="button primary"
