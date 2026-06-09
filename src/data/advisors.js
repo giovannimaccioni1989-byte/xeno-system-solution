@@ -30,7 +30,7 @@ export const advisors = [
     name: 'Cerberus',
     category: 'Forex - Multi Pairs',
     cardImage: "/Cerberus.png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_Cerberus.png',
     shortDescription: 'A defensive trading system built to navigate variable market environments with measured exposure.',
     overview:
       'Cerberus is a multi-layered trading system designed to monitor and engage the market with a broader and more responsive approach. By continuously scanning for opportunities across different conditions, it maintains an active presence while preserving structured execution logic. Built to handle complexity with precision, Cerberus adapts to shifting market dynamics, delivering a powerful combination of consistency and controlled aggressiveness within a disciplined trading framework.',
@@ -56,7 +56,7 @@ export const advisors = [
     name: 'Asgard',
     category: 'Forex - Multi Pairs',
     cardImage: "/Asgard, città d'oro e luce.png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_Asgard.png',
     shortDescription: 'An Expert Advisor designed to capitalize on structured market behavior with a professional framework.',
     overview:
       'Asgard is a balanced trading system designed to combine steady growth with controlled risk exposure. By leveraging structured market analysis, it captures consistent opportunities while maintaining a disciplined and measured approach to execution. Engineered for sustainability rather than excess, Asgard delivers a reliable performance profile, offering a strong balance between profitability and risk management across different market conditions.',
@@ -82,7 +82,7 @@ export const advisors = [
     name: 'Pulsefire',
     category: 'Forex - Multi Pairs',
     cardImage: "/PulseFire (Shinra).png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_PulseFire.png',
     shortDescription: 'A precise and selective automated system for users looking for efficient market entries.',
     overview:
       'PulseFire is a high-performance trading system built to capitalize on fast-moving market opportunities with a dynamic and proactive approach. Designed to operate with greater intensity, it aims to generate stronger returns while maintaining a consistently high trade accuracy. By combining speed, precision, and adaptive execution, PulseFire delivers an aggressive yet controlled trading profile, capturing momentum efficiently without compromising overall consistency.',
@@ -134,7 +134,7 @@ export const advisors = [
     name: 'Defensor',
     category: 'Forex - Multi Pairs',
     cardImage: "/Defensor FX.png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_Defensor.png',
     shortDescription: 'A conservative Expert Advisor aimed at protecting capital while maintaining systematic opportunity.',
     overview:
       'Defensor is a highly selective trading system designed to operate only under optimal market conditions. By prioritizing precision over frequency, it executes a limited number of trades with exceptional accuracy, maintaining a consistent and stable performance profile over time. Built to minimize unnecessary exposure, Defensor focuses on high-probability setups, delivering controlled and disciplined execution in both trending and ranging environments.',
@@ -160,7 +160,7 @@ export const advisors = [
     name: 'Dragonmind',
     category: 'Forex - Multi Pairs',
     cardImage: "/DragonMind.png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_DragonMind.png',
     shortDescription: 'A stronger, more dynamic Expert Advisor created for traders seeking assertive algorithmic structure.',
     overview:
      'DragonMind is an advanced trading system that blends analytical precision with adaptive market execution. Designed to balance intelligence and reactivity, it identifies structured opportunities while maintaining the flexibility to engage across evolving market conditions. By combining disciplined signal selection with a more dynamic trading approach, DragonMind delivers a well rounded performance profile, positioned between stability and active market participation. ',
@@ -186,7 +186,7 @@ export const advisors = [
     name: 'Hyperstorm',
     category: 'Forex - Multi Pairs',
     cardImage: "/HyperStorm (spyroFly).png",
-    detailImage: '/analisi.png',
+    detailImage: '/QTA_HyperStorm.png',
     shortDescription: 'A fast, agile Expert Advisor designed to bring flexibility and modernity to your EA lineup.',
     overview:
       'HyperStorm is the most aggressive trading system within the portfolio, engineered to exploit rapid market movements with high intensity and speed. Designed for maximum reactivity, it actively engages short-term opportunities while maintaining a notably high trade accuracy. Despite its aggressive nature, HyperStorm operates within a structured framework, balancing fast execution with disciplined logic to deliver strong performance without sacrificing consistency.',
