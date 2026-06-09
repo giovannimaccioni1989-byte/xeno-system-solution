@@ -79,10 +79,12 @@ export default function AdvisorDetailPage() {
         </div>
 
         <div className="performance-chart glass-card">
-          <div className="chart-caption">Performance chart placeholder</div>
-          <div className="chart-area">
-            <span className="chart-line" />
-          </div>
+          <div className="chart-caption">Equity Curve</div>
+          <img
+            className="equity-chart-image"
+            src={advisor.equityImage}
+            alt={`${advisor.name} equity curve`}
+          />
         </div>
       </section>
 
