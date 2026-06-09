@@ -26,8 +26,8 @@ export default function ContactPage() {
     <section className="content-section">
       <SectionTitle
         eyebrow="CONTACTS"
-        title="Let potential clients reach your brand directly"
-        text="This page is ready for your business contact details. Replace the placeholders with your real WhatsApp, Instagram, and Telegram information."
+        title="Get in Touch with Xeno System Solution"
+        text="Connect with us through our official channels for Expert Advisor information, performance updates, and support requests."
       />
 
       <div className="grid three">
@@ -52,11 +52,10 @@ export default function ContactPage() {
       </div>
 
       <div className="glass-card legal-note">
-        <h3>Recommended additions before launch</h3>
+        
         <p>
-          Add a Privacy Policy, Terms and Conditions, and a detailed risk disclaimer suitable for algorithmic trading
-          products. If you later want, the website can also include a request form, live account proof section, FAQ,
-          and a downloadable brochure.
+          Need more information?
+          For details about Expert Advisors, performance data, or collaboration opportunities, contact us through one of the official channels above.
         </p>
       </div>
     </section>
