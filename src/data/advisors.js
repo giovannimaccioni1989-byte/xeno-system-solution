@@ -5,7 +5,7 @@ export const advisors = [
     category: 'Forex - Multi Pairs',
     cardImage: "/Proton (alexander).png",
     detailImage: '/QTA_Proton.png',
-    equityImage: '/proton-equity.png',
+    equityImage: '/Proton_equityChart.png',
     shortDescription: 'A structured Expert Advisor focused on disciplined execution and portfolio consistency.',
     overview:
       'Proton is a precision-driven trading system engineered to identify and act only on high-quality market signals. Through advanced data analysis and intelligent filtering, it isolates the most favorable conditions, executing trades with calculated accuracy and consistency. Rather than chasing market noise, Proton maintains a disciplined approach, focusing on clarity, efficiency, and long-term stability across varying market environments.',
