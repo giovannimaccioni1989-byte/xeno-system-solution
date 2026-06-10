@@ -55,9 +55,9 @@ export default function HomePage() {
 
       <section className="content-section">
         <SectionTitle
-          eyebrow="ABOUT THE COMPANY"
-          title="A serious digital presence for a serious trading brand."
-          text="The website is designed to help potential clients understand who you are, what your systems do, and why your offer deserves attention."
+          eyebrow="WHO WE ARE"
+          title="Professional Algorithmic Trading Solutions"
+          text="Xeno System Solution develops professional automated trading systems designed for traders who seek structure, discipline, and long-term consistency. Our Expert Advisors are built around quantitative logic, risk awareness, and transparent performance presentation."
         />
 
         <div className="grid four">
