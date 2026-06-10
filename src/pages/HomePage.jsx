@@ -88,23 +88,40 @@ export default function HomePage() {
 
       <section className="content-section">
         <SectionTitle
-          eyebrow="EXPERT ADVISORS"
-          title="An organized lineup of eight automated systems."
-          text="Each system has its own dedicated page with overview, feature highlights, strategy summary, visual blocks, and performance metrics."
+          eyebrow="WHAT WE BUILD"
+          title="Automated Trading Systems Designed for Professional Use"
+          text="Xeno System Solution develops algorithmic trading systems focused on structured execution, verified performance presentation, and long-term portfolio compatibility."
         />
 
-        <div className="grid four">
-          {advisors.map((advisor) => (
-            <Link className="advisor-card" key={advisor.slug} to={`/expert-advisors/${advisor.slug}`}>
-              <div className="advisor-visual" />
-              <span className="tag">{advisor.category}</span>
-              <h3>{advisor.name}</h3>
-              <p>{advisor.shortDescription}</p>
-              <span className="read-more">View system details</span>
-            </Link>
-          ))}
+        <div className="grid three">
+          <article className="info-card">
+            <h3>Forex Expert Advisors</h3>
+            <p>
+              Automated systems designed to operate across multiple currency pairs with disciplined execution logic.
+            </p>
+          </article>
+
+          <article className="info-card">
+            <h3>Gold Trading Systems</h3>
+            <p>
+              Dedicated strategies built for high-value markets such as XAUUSD, with precision, timing, and risk awareness.
+            </p>
+          </article>
+
+          <article className="info-card">
+            <h3>Verified Performance Reports</h3>
+            <p>
+              Each system can be presented with equity curves, strategy statistics, and verified MyFxBook references.
+            </p>
+          </article>
         </div>
-      </section>
+
+  <div className="hero-actions">
+    <Link className="button primary" to="/expert-advisors">
+      View Expert Advisors
+    </Link>
+  </div>
+</section>
 
       <section className="content-section alt disclaimer-box">
         <SectionTitle
