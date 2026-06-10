@@ -92,7 +92,7 @@ export default function AdvisorDetailPage() {
         <section className="detail-card">
           <h2 className="myfxbook-title">
             <img src="/icons/MyFxBook Logo.png" alt="MyFxBook" />
-            Live Signal
+            
           </h2>
 
           <p>
