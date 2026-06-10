@@ -27,14 +27,21 @@ const values = [
 export default function HomePage() {
   return (
     <>
-      <section className="hero">
-        <div className="hero-copy">
-          <span className="eyebrow">AUTOMATED TRADING SOLUTIONS</span>
-          <h1>Algorithmic systems presented with corporate clarity.</h1>
+      <section className="home-hero-banner">
+        <img
+          src="/Logo.png"
+          alt="Xeno System Solution"
+          className="home-logo-banner"
+        />
+
+        <div className="home-hero-content">
+          <h1>Automated Trading Systems Built for Stability, Precision and Long-Term Vision</h1>
+
           <p>
-            Xeno System Solution is a professional brand for Expert Advisors built to communicate structure,
-            confidence, and long-term credibility in the automated trading space.
+            Professional Expert Advisors developed with structured logic, disciplined risk management,
+            and transparent performance presentation.
           </p>
+
           <div className="hero-actions">
             <Link className="button primary" to="/expert-advisors">
               Explore Expert Advisors
@@ -42,28 +49,6 @@ export default function HomePage() {
             <Link className="button secondary" to="/contacts">
               Contact Us
             </Link>
-          </div>
-        </div>
-
-        <div className="hero-card glass-card">
-          <div className="mini-chart" />
-          <div className="metrics-grid">
-            <div>
-              <span>Systems</span>
-              <strong>8</strong>
-            </div>
-            <div>
-              <span>Presentation</span>
-              <strong>Corporate</strong>
-            </div>
-            <div>
-              <span>Language</span>
-              <strong>English</strong>
-            </div>
-            <div>
-              <span>Performance</span>
-              <strong>Included</strong>
-            </div>
           </div>
         </div>
       </section>
