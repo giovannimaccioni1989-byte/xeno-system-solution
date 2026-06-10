@@ -88,22 +88,24 @@ export default function AdvisorDetailPage() {
         </div>
       </section>
 
-      <section className="detail-card">
-        <h2>Live Signal</h2>
+      {advisor.myfxbookLink && (
+        <section className="detail-card">
+          <h2>Live Signal</h2>
 
-        <p>
-          View the live verified trading account statistics directly on MyFxBook.
-        </p>
+          <p>
+            View the live verified trading account statistics directly on MyFxBook.
+          </p>
 
-        <a
-          href={advisor.myfxbookLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="button primary"
-        >
-          Open MyFxBook
-        </a>
-</section>
+          <a
+            href={advisor.myfxbookLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button primary"
+          >
+            Open MyFxBook
+          </a>
+        </section>
+      )}
       
       <section className="contact-cta glass-card">
         <div>
