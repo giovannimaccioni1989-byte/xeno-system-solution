@@ -3,10 +3,10 @@ import SectionTitle from '../components/SectionTitle'
 import { advisors } from '../data/advisors'
 
 const highlights = [
-  'Corporate-grade presentation for automated trading systems',
-  'Structured product pages for every Expert Advisor',
-  'Performance section designed for trust and clarity',
-  'Built to support premium positioning and client inquiries',
+  'Professional Expert Advisors for automated trading',
+  'Quantitative logic and structured market execution',
+  'Risk-aware systems designed for long-term consistency',
+  'Transparent performance presentation through verified data',
 ]
 
 const values = [
