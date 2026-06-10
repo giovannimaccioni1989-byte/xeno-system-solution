@@ -102,7 +102,7 @@ export default function AdvisorDetailPage() {
             rel="noopener noreferrer"
             className="button primary"
           >
-            Open MyFxBook
+            MyFxBook
           </a>
         </section>
       )}
