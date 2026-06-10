@@ -71,9 +71,9 @@ export default function HomePage() {
 
       <section className="content-section alt">
         <SectionTitle
-          eyebrow="WHY XENO"
-          title="Built for trust, positioning, and expansion."
-          text="This site structure gives you a premium base today, while leaving room for future additions like client dashboards, live verified accounts, or request forms."
+          eyebrow="OUR PHILOSOPHY"
+          title="Built Around Precision, Risk Control and Transparency"
+          text="Every system developed by Xeno System Solution follows a structured methodology focused on market discipline, controlled risk exposure, and transparent performance presentation."
         />
 
         <div className="grid three">
