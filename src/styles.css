@@ -566,3 +566,13 @@ a {
   display: block;
   border-radius: 18px;
 }
+.myfxbook-logo-link {
+  display: inline-flex;
+  width: fit-content;
+}
+
+.myfxbook-logo-link img {
+  width: 96px;
+  height: auto;
+  display: block;
+}
