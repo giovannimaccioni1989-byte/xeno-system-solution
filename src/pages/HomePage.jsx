@@ -123,12 +123,18 @@ export default function HomePage() {
   </div>
 </section>
 
-      <section className="content-section alt disclaimer-box">
+      <section className="content-section alt">
         <SectionTitle
-          eyebrow="IMPORTANT"
-          title="Risk communication should be part of your final published version."
-          text="This demo already includes a basic risk disclaimer. For the live website, you should also add a Privacy Policy, Terms and Conditions, and any regulatory language appropriate to your business model and jurisdiction."
+          eyebrow="CONTACT"
+          title="Interested in Our Trading Systems?"
+          text="Contact Xeno System Solution through our official channels to receive more information about our Expert Advisors, verified performance data, and available solutions."
         />
+
+        <div className="hero-actions">
+          <Link className="button primary" to="/contacts">
+            Contact Us
+          </Link>
+        </div>
       </section>
     </>
   )
