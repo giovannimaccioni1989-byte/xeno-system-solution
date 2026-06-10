@@ -90,7 +90,10 @@ export default function AdvisorDetailPage() {
 
       {advisor.myfxbookLink && (
         <section className="detail-card">
-          <h2>Live Signal</h2>
+          <h2 className="myfxbook-title">
+            <img src="/icons/myfxbook.png" alt="MyFxBook" />
+            Live Signal
+          </h2>
 
           <p>
             View the live verified trading account statistics directly on MyFxBook.
