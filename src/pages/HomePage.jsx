@@ -11,16 +11,16 @@ const highlights = [
 
 const values = [
   {
-    title: 'Systematic Thinking',
-    text: 'We position our trading solutions around structure, discipline, and repeatable logic instead of emotional decision-making.',
+    title: 'Precision',
+    text: 'Every Expert Advisor is designed to operate only when predefined market conditions are met, avoiding unnecessary exposure and low-quality opportunities.',
   },
   {
-    title: 'Professional Communication',
-    text: 'Every product is presented with clarity so visitors can understand the value, positioning, and operating profile of each system.',
+    title: 'Risk Control',
+    text: 'Risk management is integrated into the architecture of every system, helping maintain consistency across changing market environments.',
   },
   {
-    title: 'Scalable Brand Identity',
-    text: 'The site layout is designed to grow with your business, allowing additional systems, results, or client areas later on.',
+    title: 'Transparency',
+    text: 'Performance data, equity curves, and verified MyFxBook references are presented clearly to provide objective insight into each strategy.',
   },
 ]
 
