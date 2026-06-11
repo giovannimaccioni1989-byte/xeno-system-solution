@@ -60,7 +60,7 @@ export default function HomePage() {
           text="Xeno System Solution develops professional automated trading systems designed for traders who seek structure, discipline, and long-term consistency. Our Expert Advisors are built around quantitative logic, risk awareness, and transparent performance presentation."
         />
 
-        <div className="grid three">
+        <div className="home-video-list">
           <article className="info-card media-card">
             <video
               src="/videos/xeno-ai.mp4"
