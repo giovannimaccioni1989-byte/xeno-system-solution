@@ -610,6 +610,8 @@ a {
 .home-video-list {
   display: grid;
   gap: 34px;
+  width: min(1100px, calc(100vw - 40px));
+  margin: 0 auto;
 }
 
 .media-card {
@@ -635,6 +637,8 @@ a {
   width: 100%;
   height: auto;
   aspect-ratio: 16 / 9;
-  object-fit: cover;
+  object-fit: contain;
   display: block;
+  border-radius: 20px 20px 0 0;
+  background: #050b14;
 }
