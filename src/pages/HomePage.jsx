@@ -60,12 +60,51 @@ export default function HomePage() {
           text="Xeno System Solution develops professional automated trading systems designed for traders who seek structure, discipline, and long-term consistency. Our Expert Advisors are built around quantitative logic, risk awareness, and transparent performance presentation."
         />
 
-        <div className="grid four">
-          {highlights.map((item) => (
-            <div className="info-card" key={item}>
-              <h3>{item}</h3>
-            </div>
-          ))}
+        <div className="grid three">
+          <article className="info-card media-card">
+            <video
+              src="/videos/xeno-ai.mp4"
+              autoPlay
+              muted
+              loop
+              playsInline
+              className="home-media"
+            />
+            <h3>Artificial Intelligence</h3>
+            <p>
+              Advanced neural processing and data-driven logic designed to support structured trading decisions.
+            </p>
+          </article>
+
+          <article className="info-card media-card">
+            <video
+              src="/videos/xeno-trading.mp4"
+              autoPlay
+              muted
+              loop
+              playsInline
+              className="home-media"
+            />
+            <h3>Algorithmic Trading</h3>
+            <p>
+              Automated systems built around market structure, quantitative analysis, and disciplined execution.
+            </p>
+          </article>
+
+          <article className="info-card media-card">
+            <video
+              src="/videos/xeno-quantum.mp4"
+              autoPlay
+              muted
+              loop
+              playsInline
+              className="home-media"
+            />
+            <h3>Quantitative Strategy Core</h3>
+            <p>
+              Mathematical models, performance validation, and systematic logic at the center of every Expert Advisor.
+            </p>
+          </article>
         </div>
       </section>
 
