@@ -4,14 +4,6 @@ export default function Layout({ children }) {
   return (
     <div className="site-shell">
       <header className="topbar">
-        <div className="brand-block">
-          <div className="brand-mark">XS</div>
-          <div>
-            <div className="brand-name">Xeno System Solution</div>
-            <div className="brand-domain">xenosystemsolution.com</div>
-          </div>
-        </div>
-
         <nav className="nav-links">
           <NavLink to="/">Home</NavLink>
           <NavLink to="/expert-advisors">Expert Advisors</NavLink>
