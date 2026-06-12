@@ -649,7 +649,7 @@ a {
 .home-hero-banner,
 .content-section,
 .footer {
-  width: min(1200px, calc(100vw - 40px));
+  width: min(1500px, calc(100vw - 80px));
   margin-left: auto;
   margin-right: auto;
 }
