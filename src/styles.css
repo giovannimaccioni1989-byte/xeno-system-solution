@@ -669,3 +669,13 @@ a {
   border-radius: 20px 20px 0 0;
   background: #050b14;
 }
+.media-card {
+  overflow: hidden;
+}
+
+.home-media {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  transform: translateY(-12px);
+}
