@@ -448,7 +448,7 @@ a {
 }
 
 .footer {
-  margin: 40px 0 28px;
+  margin: 80px 0 28px;
   padding: 28px;
   border-top: 1px solid var(--line);
   display: flex;
