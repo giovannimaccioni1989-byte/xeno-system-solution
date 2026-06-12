@@ -7,7 +7,7 @@ export default function AdvisorsPage() {
     <section className="content-section advisors-page">
       <div className="elite-title">
         <SectionTitle
-          title="XENO SYSTEM SOLUTION"
+          title="Xeno System Solution Expert Advisor"
         
         />
       </div>>
