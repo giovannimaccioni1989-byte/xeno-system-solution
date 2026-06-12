@@ -670,4 +670,6 @@ a {
   background: #050b14;
   transform: translateY(+50px);
 }
-
+.contact-note {
+  margin-top: 40px;
+}
