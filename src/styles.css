@@ -638,12 +638,12 @@ a {
 
 .home-media {
   width: 100%;
-  height: auto;
+  height: 100%;
   aspect-ratio: 16 / 9;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: center top;
   display: block;
-  border-radius: 0 0 20px 20px;
-  background: #050b14;
+  border-radius: 20px 20px 0 0;
 }
 .topbar,
 .home-hero-banner,
