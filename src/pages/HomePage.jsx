@@ -78,6 +78,10 @@ export default function HomePage() {
           </article>
 
           <article className="info-card media-card">
+            <h3>Algorithmic Trading</h3>
+            <p>
+              Algorithmic trading allows each Expert Advisor to operate through predefined rules, consistent execution, and objective market interpretation. Every system is built to follow its logic with discipline, adapting to market structure without emotional interference.
+            </p>
             <video
               src="/videos/xeno-trading.mp4"
               autoPlay
@@ -86,13 +90,14 @@ export default function HomePage() {
               playsInline
               className="home-media"
             />
-            <h3>Algorithmic Trading</h3>
-            <p>
-              Automated systems built around market structure, quantitative analysis, and disciplined execution.
-            </p>
+            
           </article>
 
           <article className="info-card media-card">
+            <h3>Quantitative Strategy Core</h3>
+            <p>
+              At the center of every Expert Advisor there is a quantitative strategy framework based on mathematical logic, performance validation, and risk-aware execution. This approach supports long-term consistency and transparent evaluation of each system.
+            </p>
             <video
               src="/videos/xeno-quantum.mp4"
               autoPlay
@@ -101,10 +106,7 @@ export default function HomePage() {
               playsInline
               className="home-media"
             />
-            <h3>Quantitative Strategy Core</h3>
-            <p>
-              Mathematical models, performance validation, and systematic logic at the center of every Expert Advisor.
-            </p>
+            
           </article>
         </div>
       </section>
