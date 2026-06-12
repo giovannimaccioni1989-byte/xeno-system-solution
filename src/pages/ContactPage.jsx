@@ -51,7 +51,7 @@ export default function ContactPage() {
         ))}
       </div>
 
-      <div className="glass-card legal-note">
+      <div className="glass-card legal-note contact-note">
         
         <p>
           Need more information?
