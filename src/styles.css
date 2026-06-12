@@ -44,8 +44,9 @@ a {
   z-index: 20;
   margin: 20px 0 28px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  min-height: 70px;
   gap: 20px;
   padding: 24px 28px;
   background: rgba(12, 20, 35, 0.85);
