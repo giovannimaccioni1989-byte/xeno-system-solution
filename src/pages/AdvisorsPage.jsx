@@ -7,7 +7,7 @@ export default function AdvisorsPage() {
     <section className="content-section advisors-page">
       <div className="elite-title">
       
-      </div>>
+      </div>
       <div className="grid four">
         {advisors.map((advisor) => (
           <Link className="advisor-card" key={advisor.slug} to={`/expert-advisors/${advisor.slug}`}>
