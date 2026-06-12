@@ -5,11 +5,12 @@ import { advisors } from '../data/advisors'
 export default function AdvisorsPage() {
   return (
     <section className="content-section advisors-page">
-      <SectionTitle
-        title="XENO SYSTEM SOLUTION"
+      <div className="elite-title">
+        <SectionTitle
+          title="XENO SYSTEM SOLUTION"
         
-      />
-
+        />
+      </div>>
       <div className="grid four">
         {advisors.map((advisor) => (
           <Link className="advisor-card" key={advisor.slug} to={`/expert-advisors/${advisor.slug}`}>
