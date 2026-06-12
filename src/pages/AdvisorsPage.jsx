@@ -6,8 +6,8 @@ export default function AdvisorsPage() {
   return (
     <section className="content-section advisors-page">
       <SectionTitle
-        title="Trading System Elite"
-        text="Explore our proprietary trading systems designed for stability, precision, and long-term performance across different market conditions."
+        title="XENO SYSTEM SOLUTION"
+        
       />
 
       <div className="grid four">
