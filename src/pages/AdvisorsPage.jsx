@@ -6,10 +6,7 @@ export default function AdvisorsPage() {
   return (
     <section className="content-section advisors-page">
       <div className="elite-title">
-        <SectionTitle
-          title="Xeno System Solution Expert Advisor"
-        
-        />
+      
       </div>>
       <div className="grid four">
         {advisors.map((advisor) => (
