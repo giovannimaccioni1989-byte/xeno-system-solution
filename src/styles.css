@@ -695,3 +695,6 @@ body {
   letter-spacing: 0.25em;
   text-transform: uppercase;
 }
+.home-video-card {
+  margin-top: 40px;
+}
