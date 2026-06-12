@@ -7,7 +7,7 @@ export default function AdvisorsPage() {
     <section className="content-section advisors-page">
       <SectionTitle
         title="Trading System Elite"
-        text="text="Explore our proprietary trading systems designed for stability, precision, and long-term performance across different market conditions."
+        text="Explore our proprietary trading systems designed for stability, precision, and long-term performance across different market conditions."
       />
 
       <div className="grid four">
