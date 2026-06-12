@@ -35,6 +35,10 @@ export default function HomePage() {
         />
 
         <div className="home-hero-content">
+          <div className="hero-eyebrow">
+            QUANTITATIVE TRADING TECHNOLOGY
+          </div>
+          
           <h1>Automated Trading Systems Built for Stability, Precision and Long-Term Vision</h1>
 
           <p>
