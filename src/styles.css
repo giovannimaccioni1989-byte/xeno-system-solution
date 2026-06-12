@@ -673,3 +673,10 @@ a {
 .contact-note {
   margin-top: 40px;
 }
+html,
+body {
+  background:
+    radial-gradient(circle at top left, rgba(80, 130, 200, 0.04), transparent 22%),
+    radial-gradient(circle at top right, rgba(56, 90, 170, 0.03), transparent 18%),
+    linear-gradient(180deg, #03050a 0%, #06080d 100%) !important;
+}
