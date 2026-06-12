@@ -39,7 +39,7 @@ export default function HomePage() {
             QUANTITATIVE TRADING TECHNOLOGY
           </div>
           
-          <h1>Automated Trading Systems Built for Stability, Precision and Long-Term Vision</h1>
+          <h1>Intelligent Trading Systems Built for Long-Term Performance</h1>
 
           <p>
             Professional Expert Advisors developed with structured logic, disciplined risk management,
