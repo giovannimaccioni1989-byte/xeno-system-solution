@@ -62,6 +62,10 @@ export default function HomePage() {
 
         <div className="home-video-list">
           <article className="info-card media-card">
+            <h3>Artificial Intelligence</h3>
+            <p>
+              Artificial intelligence is the analytical foundation behind Xeno System Solution. Our systems are designed to process market conditions with structured logic, helping identify higher-quality opportunities while reducing emotional and discretionary decision-making.
+            </p>
             <video
               src="/videos/xeno-ai.mp4"
               autoPlay
@@ -70,10 +74,7 @@ export default function HomePage() {
               playsInline
               className="home-media"
             />
-            <h3>Artificial Intelligence</h3>
-            <p>
-              Advanced neural processing and data-driven logic designed to support structured trading decisions.
-            </p>
+            
           </article>
 
           <article className="info-card media-card">
