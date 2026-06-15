@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage'
 import AdvisorsPage from './pages/AdvisorsPage'
 import AdvisorDetailPage from './pages/AdvisorDetailPage'
 import ContactPage from './pages/ContactPage'
+import RiskDisclaimerPage from './pages/RiskDisclaimerPage'
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
         <Route path="/expert-advisors" element={<AdvisorsPage />} />
         <Route path="/expert-advisors/:slug" element={<AdvisorDetailPage />} />
         <Route path="/contacts" element={<ContactPage />} />
+        <Route path="/risk-disclaimer" element={<RiskDisclaimerPage />} />
       </Routes>
     </Layout>
   )
