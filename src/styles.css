@@ -776,3 +776,14 @@ body {
 .footer-note a:hover {
   color: var(--accent);
 }
+.legal-page h3 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+  color: var(--text);
+  font-size: 1.2rem;
+}
+
+.legal-page p {
+  line-height: 1.8;
+  color: var(--muted);
+}
