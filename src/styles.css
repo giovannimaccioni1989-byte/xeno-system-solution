@@ -766,3 +766,13 @@ body {
   margin-bottom: 18px;
   color: var(--muted);
 }
+.footer-note a {
+  color: var(--text);
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.footer-note a:hover {
+  color: var(--accent);
+}
