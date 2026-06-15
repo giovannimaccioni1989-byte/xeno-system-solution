@@ -5,6 +5,8 @@ import AdvisorsPage from './pages/AdvisorsPage'
 import AdvisorDetailPage from './pages/AdvisorDetailPage'
 import ContactPage from './pages/ContactPage'
 import RiskDisclaimerPage from './pages/RiskDisclaimerPage'
+import PrivacyPolicyPage from './pages/PrivacyPolicyPage'
+import TermsConditionsPage from './pages/TermsConditionsPage'
 
 export default function App() {
   return (
@@ -15,6 +17,8 @@ export default function App() {
         <Route path="/expert-advisors/:slug" element={<AdvisorDetailPage />} />
         <Route path="/contacts" element={<ContactPage />} />
         <Route path="/risk-disclaimer" element={<RiskDisclaimerPage />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
+        <Route path="/terms-conditions" element={<TermsConditionsPage />} />
       </Routes>
     </Layout>
   )
