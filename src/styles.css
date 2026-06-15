@@ -191,6 +191,7 @@ a {
   gap: 14px;
   margin-top: 24px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .button {
@@ -616,17 +617,19 @@ a {
 
 .home-hero-content {
   padding: 42px 40px;
+  text-align: center;
 }
 
 .home-hero-content h1 {
   max-width: 900px;
-  margin: 0 0 16px;
+  margin: 0 auto 16px;
   font-size: clamp(2rem, 4vw, 4rem);
   line-height: 1.05;
 }
 
 .home-hero-content p {
   max-width: 820px;
+  margin: 0 auto;
   color: var(--muted);
   font-size: 1.05rem;
   line-height: 1.7;
