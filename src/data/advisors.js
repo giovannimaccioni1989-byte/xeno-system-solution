@@ -2,6 +2,7 @@ export const advisors = [
   {
     slug: 'Proton',
     name: 'Proton',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/Proton (alexander).png",
     detailImage: '/QTA_Proton.png',
@@ -30,6 +31,7 @@ export const advisors = [
   {
     slug: 'Cerberus',
     name: 'Cerberus',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/Cerberus.png",
     detailImage: '/QTA_Cerberus.png',
@@ -58,6 +60,7 @@ export const advisors = [
   {
     slug: 'Asgard',
     name: 'Asgard',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/Asgard, città d'oro e luce.png",
     detailImage: '/QTA_Asgard.png',
@@ -86,6 +89,7 @@ export const advisors = [
   {
     slug: 'Pulsefire',
     name: 'Pulsefire',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/PulseFire (Shinra).png",
     detailImage: '/QTA_PulseFire.png',
@@ -114,6 +118,7 @@ export const advisors = [
   {
     slug: 'Gold Shooter',
     name: 'Gold Shooter',
+    platform: "MetaTrader 4",
     category: 'Forex - Gold',
     cardImage: "/Gold Shooter.png",
     detailImage: '/QTA_GoldShooter.png',
@@ -142,6 +147,7 @@ export const advisors = [
   {
     slug: 'Defensor',
     name: 'Defensor',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/Defensor FX.png",
     detailImage: '/QTA_Defensor.png',
@@ -170,6 +176,7 @@ export const advisors = [
   {
     slug: 'Dragonmind',
     name: 'Dragonmind',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/DragonMind.png",
     detailImage: '/QTA_DragonMind.png',
@@ -198,6 +205,7 @@ export const advisors = [
   {
     slug: 'Hyperstorm',
     name: 'Hyperstorm',
+    platform: "MetaTrader 4",
     category: 'Forex - Multi Pairs',
     cardImage: "/HyperStorm (spyroFly).png",
     detailImage: '/QTA_HyperStorm.png',
