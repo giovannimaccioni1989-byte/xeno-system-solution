@@ -14,6 +14,7 @@ export default function AdvisorsPage() {
             <div className="advisor-visual">
               <img src={advisor.cardImage} alt={advisor.name} />
             </div>
+            <span className="platform-tag">{advisor.platform}</span>
             <span className="tag">{advisor.category}</span>
             <h3>{advisor.name}</h3>
             <p>{advisor.shortDescription}</p>
