@@ -30,10 +30,22 @@ export default function Layout({ children }) {
           </p>
 
           <p>
+            <Link to="/privacy-policy">
+              Privacy Policy
+            </Link>
+          </p>
+
+          <p>
+            <Link to="/terms-conditions">
+              Terms & Conditions
+            </Link>
+          </p>
+
+          <p>
             © 2026 Xeno System Solution. All rights reserved.
           </p>
 
-        </div>
+        </div> 
       </footer>
     </div>
   )
