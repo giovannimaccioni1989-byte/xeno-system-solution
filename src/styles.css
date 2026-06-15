@@ -757,3 +757,12 @@ body {
   margin: 0 auto 12px;
   line-height: 1.7;
 }
+.legal-page {
+  padding: 40px;
+  line-height: 1.8;
+}
+
+.legal-page p {
+  margin-bottom: 18px;
+  color: var(--muted);
+}
