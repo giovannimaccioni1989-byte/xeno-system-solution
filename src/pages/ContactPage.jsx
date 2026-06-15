@@ -51,6 +51,22 @@ export default function ContactPage() {
         ))}
       </div>
 
+      <div className="glass-card trial-offer">
+        <h3>Exclusive Trial Program</h3>
+
+        <p>
+          Experience our automated trading systems with no upfront commitment.
+          We offer a <strong>6-month free trial period</strong>, allowing you
+          to evaluate performance, stability, and operational consistency under
+          real market conditions.
+        </p>
+
+        <p>
+          For additional information and access details, please contact us
+          through our official Telegram channel.
+        </p>
+      </div>
+      
       <div className="glass-card legal-note contact-note">
         
         <p>
