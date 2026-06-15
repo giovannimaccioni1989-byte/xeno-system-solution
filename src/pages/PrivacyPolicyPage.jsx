@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
     and protects information provided through this website.
   </p>
 
-  <h3>Information Collection</h3>
+  <h3>Information Collection</h3> 
 
   <p>
     Xeno System Solution does not require user registration and does not
