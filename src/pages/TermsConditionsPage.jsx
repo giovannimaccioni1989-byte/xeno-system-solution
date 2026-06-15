@@ -6,7 +6,7 @@ export default function TermsConditionsPage() {
         <h2>Terms & Conditions</h2>
       </div>
 
-      <div className="glass-card legal-page">
+      <div className="glass-card legal-page"> 
 
   <p>
     These Terms and Conditions govern the use of the Xeno System Solution
