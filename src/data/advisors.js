@@ -133,10 +133,10 @@ export const advisors = [
       'Recommended Capital: 10k $',
     ],
     performance: {
-      returnRate: '15.6%',
-      maxDrawdown: '7.4%',
-      winRate: '59%',
-      profitFactor: '1.84',
+      returnRate: '5.78%',
+      maxDrawdown: '6.01%',
+      winRate: '84.21%',
+      profitFactor: '1.47',
     },
   },
   {
