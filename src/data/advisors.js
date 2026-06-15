@@ -117,7 +117,7 @@ export const advisors = [
     category: 'Forex - Gold',
     cardImage: "/Gold Shooter.png",
     detailImage: '/QTA_GoldShooter.png',
-    equityImage: '/Proton_equityChart.jpg',
+    equityImage: '/GoldShooter_equityChart.jpg',
     myfxbookLink: 'https://www.myfxbook.com/portfolio/gold-shooter-fx/12041734',
     shortDescription: 'A specialized Expert Advisor tailored to gold market behavior and high-attention execution.',
     overview:
