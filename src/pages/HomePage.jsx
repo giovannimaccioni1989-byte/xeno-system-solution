@@ -9,7 +9,7 @@ const highlights = [
   'Transparent performance presentation through verified data',
 ]
 
-const values = [
+const values = [ 
   {
     title: 'Precision',
     text: 'Every Expert Advisor is designed to operate only when predefined market conditions are met, avoiding unnecessary exposure and low-quality opportunities.',
