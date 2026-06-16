@@ -787,3 +787,17 @@ body {
   line-height: 1.8;
   color: var(--muted);
 }
+.advisor-hero > div:first-child {
+  text-align: center;
+}
+
+.advisor-hero > div:first-child .lead {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.advisor-hero > div:first-child .tag.big {
+  margin-left: auto;
+  margin-right: auto;
+}
