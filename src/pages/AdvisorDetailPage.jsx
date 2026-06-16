@@ -78,6 +78,31 @@ export default function AdvisorDetailPage() {
           </div>
         </div>
 
+        <div className="backtest-note glass-card">
+          <h3>Backtest Information</h3>
+
+            <p>
+             The performance statistics presented above are based on historical
+             backtesting conducted using high-quality real tick data processed
+             through Tickstory.
+            </p>
+
+            <p>
+             The testing period covers January 1, 2020 through April 1, 2026
+             and was performed using the recommended account capital allocation
+             for this Expert Advisor.
+            </p>
+
+            <p>
+             Backtest results are provided for informational and evaluation
+            purposes only. Historical performance, whether simulated or
+            backtested, does not guarantee future results. Actual trading
+            performance may differ due to market conditions, execution quality,
+            spreads, slippage, liquidity, and other factors beyond the scope of
+            historical testing.
+            </p>
+        </div>
+        
         <div className="performance-chart glass-card">
           <div className="chart-caption">Equity Curve</div>
           <img
