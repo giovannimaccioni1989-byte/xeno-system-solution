@@ -44,11 +44,7 @@ export default function HomePage() {
           <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
         </div>
       </div> 
-
-      <section className="home-hero-banner">
-
-      
-      
+           
       <section className="home-hero-banner">
         <img
           src="/Logo.png"
