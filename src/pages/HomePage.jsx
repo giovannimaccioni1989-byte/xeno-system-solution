@@ -43,7 +43,7 @@ export default function HomePage() {
           <span>DAX <strong>18,450</strong> <em className="up">▲ 0.22%</em></span>
           <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
         </div>
-      </div>
+      </div> 
 
       <section className="home-hero-banner">
 
