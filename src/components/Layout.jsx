@@ -11,6 +11,24 @@ export default function Layout({ children }) {
         </nav>
       </header>
 
+      <div className="market-ticker">
+        <div className="market-ticker-track">
+          <span>EUR/USD <strong>1.0842</strong> <em className="up">▲ 0.18%</em></span>
+          <span>XAU/USD <strong>2,345.80</strong> <em className="up">▲ 0.42%</em></span>
+          <span>NASDAQ <strong>18,920</strong> <em className="up">▲ 0.31%</em></span>
+          <span>US30 <strong>39,840</strong> <em className="down">▼ 0.12%</em></span>
+          <span>DAX <strong>18,450</strong> <em className="up">▲ 0.22%</em></span>
+          <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
+
+          <span>EUR/USD <strong>1.0842</strong> <em className="up">▲ 0.18%</em></span>
+          <span>XAU/USD <strong>2,345.80</strong> <em className="up">▲ 0.42%</em></span>
+          <span>NASDAQ <strong>18,920</strong> <em className="up">▲ 0.31%</em></span>
+          <span>US30 <strong>39,840</strong> <em className="down">▼ 0.12%</em></span>
+          <span>DAX <strong>18,450</strong> <em className="up">▲ 0.22%</em></span>
+          <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
+        </div>
+      </div> 
+      
       <main>{children}</main>
 
       <footer className="footer">
