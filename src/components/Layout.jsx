@@ -1,6 +1,40 @@
+import { useEffect, useState } from 'react'
 import { NavLink, Link } from 'react-router-dom'
 
 export default function Layout({ children }) {
+  const fallbackTicker = [
+    { symbol: 'AAPL', price: '300.21', change: 0.32 },
+    { symbol: 'MSFT', price: '495.80', change: 0.21 },
+    { symbol: 'NVDA', price: '182.45', change: 0.74 },
+    { symbol: 'TSLA', price: '421.30', change: -0.18 },
+    { symbol: 'AMZN', price: '232.10', change: 0.11 },
+    { symbol: 'SPY', price: '612.40', change: 0.28 },
+    { symbol: 'QQQ', price: '548.90', change: 0.35 },
+    { symbol: 'DIA', price: '456.20', change: -0.07 },
+  ]
+
+  const [tickerData, setTickerData] = useState(fallbackTicker)
+
+  useEffect(() => {
+    async function loadTicker() {
+      try {
+        const response = await fetch('/api/market-ticker')
+        const data = await response.json()
+
+        if (Array.isArray(data) && data.length > 0) {
+          setTickerData(data)
+        }
+      } catch (error) {
+        setTickerData(fallbackTicker)
+      }
+    }
+
+    loadTicker()
+    const interval = setInterval(loadTicker, 60000)
+
+    return () => clearInterval(interval)
+  }, [])
+
   return (
     <div className="site-shell">
       <header className="topbar">
@@ -13,22 +47,18 @@ export default function Layout({ children }) {
 
       <div className="market-ticker">
         <div className="market-ticker-track">
-          <span>EUR/USD <strong>1.0842</strong> <em className="up">▲ 0.18%</em></span>
-          <span>XAU/USD <strong>2,345.80</strong> <em className="up">▲ 0.42%</em></span>
-          <span>NASDAQ <strong>18,920</strong> <em className="up">▲ 0.31%</em></span>
-          <span>US30 <strong>39,840</strong> <em className="down">▼ 0.12%</em></span>
-          <span>DAX <strong>18,450</strong> <em className="up">▲ 0.22%</em></span>
-          <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
-
-          <span>EUR/USD <strong>1.0842</strong> <em className="up">▲ 0.18%</em></span>
-          <span>XAU/USD <strong>2,345.80</strong> <em className="up">▲ 0.42%</em></span>
-          <span>NASDAQ <strong>18,920</strong> <em className="up">▲ 0.31%</em></span>
-          <span>US30 <strong>39,840</strong> <em className="down">▼ 0.12%</em></span>
-          <span>DAX <strong>18,450</strong> <em className="up">▲ 0.22%</em></span>
-          <span>GBP/USD <strong>1.2675</strong> <em className="down">▼ 0.08%</em></span>
+          {[...tickerData, ...tickerData].map((item, index) => (
+            <span key={`${item.symbol}-${index}`}>
+              {item.symbol} <strong>{item.price}</strong>{' '}
+              <em className={Number(item.change) >= 0 ? 'up' : 'down'}>
+                {Number(item.change) >= 0 ? '▲' : '▼'}{' '}
+                {Math.abs(Number(item.change)).toFixed(2)}%
+              </em>
+            </span>
+          ))}
         </div>
-      </div> 
-      
+      </div>
+
       <main>{children}</main>
 
       <footer className="footer">
@@ -38,9 +68,8 @@ export default function Layout({ children }) {
             Automated trading systems designed for structure, discipline, and professional presentation.
           </p>
         </div>
-       
-        <div className="footer-note">
 
+        <div className="footer-note">
           <p>
             <Link to="/risk-disclaimer">
               Risk Disclaimer
@@ -62,8 +91,7 @@ export default function Layout({ children }) {
           <p>
             © 2026 Xeno System Solution. All rights reserved.
           </p>
-
-        </div> 
+        </div>
       </footer>
     </div>
   )
