@@ -260,4 +260,33 @@ export const advisors = [
       profitFactor: '3.35',
     },
   },
+  {
+    slug: 'Leviathan',
+    name: 'Leviathan',
+    platform: "MetaTrader 4",
+    category: 'Forex - Multi Pairs',
+    cardImage: "/Leviathan.png",
+    detailImage: '/QTA_Leviathan.png',
+    equityImage: '/Leviathan_equityChart.jpg',
+    myfxbookLink: 'https://www.myfxbook.com/portfolio/leviathan/12056697',
+    shortDescription: 'High-performance algorithm engineered for consistent growth and exceptional capital protection.',
+    overview:
+      'Leviathan is a high-efficiency quantitative trading system built to maximize long-term performance while maintaining exceptional capital protection. Combining intelligent market analysis with adaptive trade management, it executes thousands of precision trades with remarkable consistency, delivering strong growth potential alongside an exceptionally low drawdown. Designed for traders who demand both performance and reliability, Leviathan represents the next generation of automated trading technology.',
+    features: [
+      'Market: Forex',
+      'Pairs: 24',
+      'Timeframe: H1',
+    ],
+    strategy: [
+      'Risk Level: Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 3k $',
+    ],
+    performance: {
+      returnRate: '18.39%',
+      maxDrawdown: '12.03%',
+      winRate: '87.91%',
+      profitFactor: '2.32',
+    },
+  },
 ]
