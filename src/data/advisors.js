@@ -231,4 +231,33 @@ export const advisors = [
       profitFactor: '1.70',
     },
   },
+  {
+    slug: 'Poseidon',
+    name: 'Poseidon',
+    platform: "MetaTrader 4",
+    category: 'Forex - Multi Pairs',
+    cardImage: "/Poseidon.png",
+    detailImage: '/QTA_Poseidon.png',
+    equityImage: '/Poseidon_equityChart.jpg',
+    myfxbookLink: 'https://www.myfxbook.com/portfolio/poseidon/12056719',
+    shortDescription: 'Smart automation delivering consistent returns with controlled market exposure.',
+    overview:
+      'Poseidon is a low-risk quantitative trading system engineered for long-term consistency. Designed to maintain an exceptionally low drawdown while achieving a high win rate, it focuses on capital preservation and stable portfolio growth. Through advanced market filtering and intelligent trade management, Poseidon delivers reliable performance even with modest account sizes, making it an ideal solution for traders seeking disciplined, sustainable automation.',
+    features: [
+      'Market: Forex',
+      'Pairs: 18',
+      'Timeframe: H4',
+    ],
+    strategy: [
+      'Risk Level: Very Low ',
+      'Trading Style: Trend Following',
+      'Recommended Capital: 1k $',
+    ],
+    performance: {
+      returnRate: '14.79%',
+      maxDrawdown: '4.60%',
+      winRate: '91.61%',
+      profitFactor: '3.35',
+    },
+  },
 ]
